@@ -33,6 +33,7 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="r"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"/> </a>
   <a href="https://www.sas.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SAS-007EC6?style=for-the-badge&logo=sas&logoColor=white" alt="sas"/> </a>
 </p>
