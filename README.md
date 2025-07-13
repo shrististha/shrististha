@@ -10,6 +10,9 @@
     <a href="mailto:shristi.stha33@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <a href="https://shrististha.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-%232C5263?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=shristi-shrestha&style=flat-square&color=blueviolet" alt=""/>
 
