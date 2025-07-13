@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=shristi-shrestha&style=flat-square&color=blueviolet" alt=""/>
 
   <p>
-    I'm a passionate Data Scientist and Software Engineer with a knack for transforming complex data into actionable insights. I thrive at the intersection of machine learning, cloud computing, and robust software development. 
+    I'm a passionate about playing with data. I love transforming complex data into actionable insights. I thrive at the intersection of machine learning, cloud computing, and robust software development. 
   </p>
   <p>
     Currently, I'm pursuing my Master's in Data Science at the University of Memphis, diving deep into advanced statistical learning and deep learning. I'm on a mission to leverage technology to solve real-world challenges and build intelligent, data-driven applications.
