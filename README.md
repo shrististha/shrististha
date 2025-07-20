@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-    I'm a data enthusiast with a passion for solving real-world problems through data and software. With hands-on experience across data science, analytics, and visualization, I love translating complex datasets into actionable insights.
+      I am a tech-driven professional with a strong foundation in data analysis, quality assurance, and machine learning. I enjoy building solutions that bridge the gap between data and decision-making, while writing clean, maintainable code. With a passion for problem-solving and continuous learning, I'm currently open to new opportunities.
   </p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/shristi-stha/" target="_blank">
@@ -13,13 +13,12 @@
     <a href="mailto:shristi.stha33@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Gmail Badge"/>
     </a>
-    <a href="https://shrististha.github.io">
+    <!-- <a href="https://shrististha.github.io">
       <img src="https://img.shields.io/badge/Portfolio-%232C5263?style=for-the-badge&logo=portfolio&logoColor=2c5263" alt="Portfolio Badge"/>
-    </a>
+    </a> -->
   </div>
-  <img src="https://komarev.com/ghpvc/?username=shristi-shrestha&style=flat-square&color=blueviolet" alt=""/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=shristi-shrestha&style=flat-square&color=blueviolet" alt=""/> -->
 
-  <b>🎯 Data Enthusiast | Passionate About Turning Data into Impactful Solutions</b>
 </div>
 
 ---
@@ -83,7 +82,7 @@ In this project, I applied data science to the Memphis Police Department's publi
 <b><a href="https://github.com/shrististha/data-science-pred-memphis">View on GitHub</a></b>
 </details>
 
-<details>
+<!-- <details>
 <summary><b>Exploring ML/DL for Named Entity Recognition (NER) 📝</b></summary>
 <br>
 This project involved evaluating and comparing the performance of different models, including Conditional Random Fields (CRF), LSTM, BiLSTM, and a hybrid BiLSTM-CRF, in identifying and classifying named entities from unstructured text data using the Groningen Meaning Bank corpus.
@@ -91,14 +90,14 @@ This project involved evaluating and comparing the performance of different mode
 <strong>Technologies Used:</strong> Python, Pandas, scikit-learn, Tensorflow, Keras, K-fold cross-validation, Jupyter Notebook
 <br><br>
 <b><a href="https://github.com/shrististha/ml-ner">View on GitHub</a></b>
-</details>
+</details> -->
 
 <details>
 <summary><b>Investigating Wildfire Severity 🔥</b></summary>
 <br>
-This project involved handling large and complex datasets from multiple sources to identify the key variables contributing to the spread of wildfires. I constructed several machine learning classification models, including Decision Trees, Random Forests, and Support Vector Machines, to classify wildfire severity.
+This project involved handling large and complex datasets from multiple sources to identify the key variables contributing to the spread of wildfires. I constructed several machine learning classification models, including Decision Trees, Random Forests to classify wildfire severity.
 <br><br>
-<strong>Technologies Used:</strong> Python, Pandas, scikit-learn, imblearn, SMOTE, Jupyter Notebook, RapidMiner
+<strong>Technologies Used:</strong> Python, Pandas, scikit-learn, SMOTE, Jupyter Notebook, RapidMiner
 <br><br>
 <b><a href="https://github.com/shrististha/investigating-wildfire-severity-using-data-mining-and-machine">View on GitHub</a></b>
 </details>
