@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
-      I am a tech-driven professional with a strong foundation in data analysis, quality assurance, and machine learning. I enjoy building solutions that bridge the gap between data and decision-making, while writing clean, maintainable code. With a passion for problem-solving and continuous learning, I'm currently open to new opportunities.
+      I enjoy building solutions that bridge the gap between data and decision-making, while writing clean, maintainable code. With a passion for problem-solving and continuous learning, I'm currently open to new opportunities.
   </p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/shristi-stha/" target="_blank">
