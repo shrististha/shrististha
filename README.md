@@ -105,9 +105,9 @@ This project involved handling large and complex datasets from multiple sources 
 <details>
 <summary><b>Human Resources Dashboard in Tableau 📊</b></summary>
 <br>
-Built an interactive HR dashboard using Tableau to visualize and monitor key workforce metrics like attrition, diversity, and department-wise headcount. The project provides actionable insights for HR decision-making and resource planning.
+Built an interactive HR dashboard using Tableau to visualize and monitor key workforce metrics like diversity, and department-wise and location-wise headcount. The project provides actionable insights for HR decision-making and resource planning.
 <br><br>
-<strong>Technologies Used:</strong> Tableau, Excel
+<strong>Technologies Used:</strong> Tableau, Python
 <br><br>
 <b><a href="https://github.com/shrististha/HumanResourcesDashboard">View on GitHub</a></b>
 </details>
@@ -117,7 +117,7 @@ Built an interactive HR dashboard using Tableau to visualize and monitor key wor
 <br>
 Conducted a detailed churn analysis using Tableau dashboards. Explored customer demographics, contracts, payment methods, and product subscriptions to uncover factors influencing churn and retention.
 <br><br>
-<strong>Technologies Used:</strong> Tableau, Excel
+<strong>Technologies Used:</strong> Tableau, Python
 <br><br>
 <b><a href="https://github.com/shrististha/CustomerChurnAnalysis">View on GitHub</a></b>
 </details>
