@@ -75,7 +75,7 @@ Here are some of the projects I'm proud of. You can find more in my repositories
 <details>
 <summary><b>Predictive Policing in Memphis 👮‍♀️</b></summary>
 <br>
-In this project, I applied data science to the Memphis Police Department's public safety dataset. The goal was to derive insights that could help in the strategic deployment of law enforcement resources. I handled the entire data science lifecycle, from cleaning a massive dataset of over 640,000 crime records to developing Decision Tree and Random Forest models to predict crime severity.
+In this project, I applied data science to the Memphis Police Department's public safety dataset. The goal was to derive insights that could help in the strategic deployment of law enforcement resources. I handled the entire data science lifecycle, from cleaning a massive dataset of over 640,000 crime records to developing Multinomial Logistic Regression model to predict crime severity.
 <br><br>
 <strong>Technologies Used:</strong> Python, Pandas, scikit-learn, NumPy, Matplotlib, Jupyter Notebook
 <br><br>
